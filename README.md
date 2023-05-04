@@ -1,2 +1,2 @@
 # random-quote-machine
-Created with CodeSandbox
+Random Quote Machine with React
